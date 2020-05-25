@@ -1,0 +1,16 @@
+button {
+    position: relative;
+    margin: 1em 46.5% 1em 46.5%;
+}
+
+
+.aDiv {
+    height: 10em; 
+    width:10em;
+    margin: 1em;
+    background-color:black;
+    display: inline-flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+    }
